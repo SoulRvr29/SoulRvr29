@@ -24,8 +24,9 @@ I have been learning Front-end for over a year. I am constantly trying to expand
 
 <a align="top" href="http://www.github.com/SoulRvr29"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SoulRvr29&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-### Three projects I'm most proud of 🎉
+---
 
-* [kartonowebudowle](https://kartonowebudowle.pl/)
-* [Angielskie-Slowka](https://soulrvr29.github.io/Angielskie-Slowka/)
-* [Slider-Puzzle](https://soulrvr29.github.io/Slider-Puzzle/)
+### The project I'm most proud of is [kartonowebudowle](https://kartonowebudowle.pl/) site 🎉
+
+![image](/kartonowebudowle.png)
+
