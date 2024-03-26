@@ -28,5 +28,5 @@ I have been learning Front-end for over a year. I am constantly trying to expand
 
 ### The project I'm most proud of is [kartonowebudowle](https://kartonowebudowle.pl/) site 🎉
 
-![image](/kartonowebudowle.png)
+<a href="https://kartonowebudowle.pl/" target="_blank" >![image](/kartonowebudowle.png)</a>
 
