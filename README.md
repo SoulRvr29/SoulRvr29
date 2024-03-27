@@ -23,10 +23,3 @@ I have been learning Front-end for over a year. I am constantly trying to expand
 <b>My GitHub Stats</b>
 
 <a align="top" href="http://www.github.com/SoulRvr29"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SoulRvr29&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
----
-
-### The project I'm most proud of is [kartonowebudowle](https://kartonowebudowle.pl/) site 🎉
-
-<a href="https://kartonowebudowle.pl/" target="_blank" >![image](/kartonowebudowle.png)</a>
-
