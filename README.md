@@ -5,8 +5,8 @@ I have been learning Front-end for over a year. I am constantly trying to expand
 
 * 🌍 I'm based in Poland
 * ✉️  You can contact me at [pawelc29@interia.pl](mailto:pawelc29@interia.pl)
-* 🔍 I've done 28 projects on [Frontend Mentor](https://www.frontendmentor.io/profile/SoulRvr29)
-* 💪 I solved 162 tasks on [Codewars](https://www.codewars.com/users/SoulRvr29)
+* 🔍 I've done 30 projects on [Frontend Mentor](https://www.frontendmentor.io/profile/SoulRvr29)
+* 💪 I solved over 160 tasks on [Codewars](https://www.codewars.com/users/SoulRvr29)
 * 🚀 I'm currently learning NextJs
 
 ### Stuff I know 🤓
