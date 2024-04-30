@@ -22,4 +22,4 @@ I have been learning Front-end for over a year. I am constantly trying to expand
 </p>
 
 ---
-<a href="https://www.codewars.com/users/SoulRvr29" target="_blank"><img src="https://www.codewars.com/users/SoulRvr29/badges/large" /></a>
+<a href="https://www.codewars.com/users/SoulRvr29" target="_blank" alt="codewars badge"><img src="https://www.codewars.com/users/SoulRvr29/badges/large" title="codewars" /></a>
