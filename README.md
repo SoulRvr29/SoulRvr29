@@ -1,13 +1,13 @@
 Hi there 👋, I'm Paweł
 ======================
 
-I have been learning Front-end for over a year. I am constantly trying to expand my knowledge with new libraries and frameworks.
+I’ve been learning front‑end development since 2023 and I’m constantly expanding my skill set with new libraries and frameworks.
 
 * 🌍 I'm based in Poland
-* ✉️  You can contact me at [pawelc29@interia.pl](mailto:pawelc29@interia.pl)
-* 🔍 I've done 32 projects on [Frontend Mentor](https://www.frontendmentor.io/profile/SoulRvr29)
-* 💪 I solved over 180 tasks on [Codewars](https://www.codewars.com/users/SoulRvr29)
-* 🚀 I'm currently learning NodeJS
+* ✉️ You can reach me at [pawelc29@interia.pl](mailto:pawelc29@interia.pl)
+* 🔍 I’ve completed over 30 projects on [Frontend Mentor](https://www.frontendmentor.io/profile/SoulRvr29)
+* 💪 I’ve solved over 180 challenges on [Codewars](https://www.codewars.com/users/SoulRvr29)
+* 🚀 I’m currently diving into Next.js
 
 ### Stuff I know 🤓
 
